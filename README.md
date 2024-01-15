@@ -16,6 +16,12 @@ Citation:
 **Contents:** There are X folders and a README.md file.
 
 **Folders:**
+Data: Data tables used for the analysis, obtained by combining multiple raw datasets (Counting of recruits and Benthic analysis through PhotoQuad)
+
+Script: R script used in RStudio to create all Figures and Tables
+
+Output: Figures from Paper
+
 
 
 
